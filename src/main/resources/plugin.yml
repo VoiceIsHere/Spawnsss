@@ -1,0 +1,9 @@
+name: Spawn
+description: $description
+version: '${version}'
+
+main: VoiceIsHere.spawn.Spawn
+api-version: '1.21.11'
+load: POSTWORLD
+
+authors: [ VoiceIsHere ]
